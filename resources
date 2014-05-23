@@ -1,0 +1,50 @@
+Latency & Bandwidth
+
+http://blog.cloudflare.com/why-mobile-performance-is-difficult
+http://serverfault.com/questions/387627/why-do-mobile-networks-have-high-latencies-how-can-they-be-reduced
+http://stackoverflow.com/questions/17842406/how-would-one-disable-nagles-algorithm-in-linux/17843292#17843292
+https://www.igvita.com/2012/07/19/latency-the-new-web-performance-bottleneck/
+http://www.mobify.com/blog/web-performance-optimization/
+http://calendar.perfplanet.com/2012/latency-in-mobile-networks-the-missing-link/
+http://blog.cloudflare.com/what-makes-spdy-speedy
+https://www.cloudflare.com/railgun
+http://en.wikipedia.org/wiki/HTTP_persistent_connection
+http://www.akamai.com/dl/akamai/akamai-soti-a4-q413.pdf?WT.mc_id=soti_a4_Q413
+
+
+Clients (cache, gzip..)
+
+http://developer.android.com/reference/android/net/http/HttpResponseCache.html
+http://android-developers.blogspot.com/2011/09/androids-http-clients.html
+https://github.com/AFNetworking/AFNetworking/wiki/AFNetworking-FAQ
+
+
+REST - API
+
+https://www.youtube.com/watch?v=ITmcAGvfcJI
+https://www.youtube.com/watch?v=hdSrT4yjS1g
+http://redotheweb.com/2012/08/09/how-to-design-rest-apis-for-mobile.html
+http://stateless.co/hal_specification.html
+http://blog.stateless.co/post/13296666138/json-linking-with-hal
+http://martinfowler.com/articles/richardsonMaturityModel.html
+http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-sfliveparis2012-20120608
+http://developer.lovefilm.com/docs/API_Overview/Using_the_API
+http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+http://json-schema.org/example1.html
+http://www.infoq.com/articles/webber-rest-workflow
+http://www.infoq.com/presentations/netflix-reactive-rest
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+http://onlysoftware.wordpress.com/tag/best-practices/
+
+
+REST - Versioning
+
+http://maxenglander.com/2013/04/23/basic-restful-api-versioning-in-jersey.html
+http://codebetter.com/howarddierking/2012/11/09/versioning-restful-services/
+http://stackoverflow.com/questions/389169/best-practices-for-api-versioning
+http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/
+http://pivotallabs.com/api-versioning/
+https://stripe.com/docs/api#versioning
+https://www.mnot.net/blog/2012/07/11/header_versioning
+http://java.dzone.com/articles/your-api-versioning-wrong
+http://stackoverflow.com/questions/12037476/versioning-a-restful-api-with-both-xml-and-json-content-type
